@@ -79,7 +79,7 @@ export const Editor: React.FC<Props> = (props) => {
             保存する
           </Button>
           <Link to="/history">
-            履歴を見る
+            履歴参照
           </Link>
         </Header>
       </HeaderArea>
